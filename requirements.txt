@@ -1,5 +1,10 @@
 streamlit
 pandas
 numpy
-matplotlib
-
+datetime
+regex
+requests
+sklearn
+geopandas
+bs4
+plotly
